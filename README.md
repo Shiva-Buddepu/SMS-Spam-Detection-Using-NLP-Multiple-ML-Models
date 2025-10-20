@@ -1,4 +1,4 @@
-# SMS Spam Detection Using NLP Multiple ML Models
+# SMS Spam Detection Using NLP & Multiple ML Models
 ## Project Overview
 This project focuses on building a robust **spam detection system** for SMS messages using **Natural Language Processing (NLP)** and **machine learning models**. The pipeline includes text preprocessing, feature extraction, and training multiple classifiers to predict whether a message is spam or not.
 
